@@ -1,5 +1,5 @@
 ## Olá me chamo Mikael Alves.😁
-### Minhas redes socias.
+###  Redes de contatos.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/code_esy/)) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.instagram.com/code_esy/)) [![linkedin](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]((https://codepen.io/mkzinho012))
 
 
